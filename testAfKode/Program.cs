@@ -14,7 +14,7 @@ namespace testAfKode
             foreach(string val in perts)
             {
                 Console.WriteLine(val);
-                dgsgs
+                Console.WriteLine("skl");
             }
         }
     }
